@@ -11,6 +11,9 @@ public class Course {
     private String status;
     private LocalDateTime createdAt;
 
+    public Course() {
+    }
+
     public Course(Long id, String name, String description,
               LocalDate targetDate, String status,
               LocalDateTime createdAt) {

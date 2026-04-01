@@ -1,1 +1,8 @@
-[ ]
+[ {
+  "id" : 1,
+  "name" : "Learning Basic Java",
+  "description" : "Sample Java course",
+  "targetDate" : [ 2026, 4, 5 ],
+  "status" : "In Progress",
+  "createdAt" : [ 2026, 4, 2, 3, 34, 2, 391707709 ]
+} ]
